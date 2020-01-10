@@ -11,7 +11,7 @@ let PREFIX = "/"
 
 
 
-client.login(process.env.TOKEN)
+client.login("NjY1MzE3NDgyMDcxODUxMDE5.Xhj3Rg.5EENNYK_nKMCOB-OReeLGCCt0R4")
 
 var mention = "<@390553335758979072>";
 
